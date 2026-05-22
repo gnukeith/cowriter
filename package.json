@@ -16,7 +16,7 @@
     "lm-studio",
     "privacy"
   ],
-  "author": "",
+  "author": "gnukeith",
   "license": "MIT",
   "devDependencies": {
     "@types/node": "^20.11.30",
