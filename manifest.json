@@ -1,0 +1,11 @@
+{
+  "id": "cowriter",
+  "name": "Cowriter",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Privacy-first AI writing tools for Obsidian. Local models are recommended; remote providers require explicit consent.",
+  "author": "",
+  "authorUrl": "",
+  "fundingUrl": "",
+  "isDesktopOnly": false
+}
